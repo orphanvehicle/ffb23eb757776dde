@@ -1,0 +1,5 @@
+Player URL:
+https://orphanvehicle.github.io/player/?list=https://raw.githubusercontent.com/orphanvehicle/ffb23eb757776dde/refs/heads/master/github_master.m3u8
+
+Direct Playlist URL:
+https://raw.githubusercontent.com/orphanvehicle/ffb23eb757776dde/refs/heads/master/github_master.m3u8
